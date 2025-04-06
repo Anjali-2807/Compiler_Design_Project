@@ -42,7 +42,6 @@ MOV R4, 10        ; Time periods = 10 years
 FINANCE_COMPOUND R1, R2, R3, R4  ; Result stored in R5
 
 ### How to run
+In the Compound_Interest folder, run :
 
-1. make
-
-2. ./compiler
+./compiler
