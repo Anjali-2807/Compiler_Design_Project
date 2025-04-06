@@ -28,7 +28,7 @@ Computes the compound interest for a principal amount over time with a given int
 | `R2`     | Annual interest rate \( r \) (decimal) | `0.05` (5%)   |
 | `R3`     | Compounding frequency \( n \)       | `12` (monthly)|
 | `R4`     | Time periods \( t \)                | `10` (years)  |
-| `R5`     | Result \( A \)                      | (output)      |
+| `R5`     | Result \( A \)                      | `1647.01`     |
 
 ### Formula
 \[ A = P \times \left(1 + \frac{r}{n}\right)^{n \times t} \]
