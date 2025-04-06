@@ -40,3 +40,9 @@ MOV R2, 0.05      ; Annual interest rate = 5%
 MOV R3, 12        ; Compounding frequency = 12 (monthly)
 MOV R4, 10        ; Time periods = 10 years
 FINANCE_COMPOUND R1, R2, R3, R4  ; Result stored in R5
+
+### How to run
+
+1. make
+
+2. ./compiler
